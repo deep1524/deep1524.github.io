@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0c069e50.css",
-    "main.js": "/static/js/main.1883f548.js",
+    "main.js": "/static/js/main.bb15d4e2.js",
     "static/media/bg1.gif": "/static/media/bg1.d4a402f4b5da5590c675.gif",
-    "static/media/outlook1.png": "/static/media/outlook1.292604f1d014214b7193.png",
-    "static/media/unsplash3.png": "/static/media/unsplash3.3d4e35b03025df1209d8.png",
-    "static/media/unsplash2.png": "/static/media/unsplash2.6037577dab4a261ef44f.png",
-    "static/media/outlook2.png": "/static/media/outlook2.e4b38bda6ac1cfb5e1db.png",
-    "static/media/unsplash1.png": "/static/media/unsplash1.097d9a1eb1d03b50af43.png",
-    "static/media/outlook3.png": "/static/media/outlook3.8730c1610b68ae7ba53e.png",
+    "static/media/asos1.png": "/static/media/asos1.1d6ce236630cd6f67f8b.png",
+    "static/media/Nordstrom2.png": "/static/media/Nordstrom2.9056b2b4fc1ceafc8411.png",
+    "static/media/Nordstrom3.png": "/static/media/Nordstrom3.53f8cbac85aa21fcd9bf.png",
     "static/media/pharm1.png": "/static/media/pharm1.432d60b24be14be3894c.png",
+    "static/media/Nordstrom1.png": "/static/media/Nordstrom1.db180996a449bc2129c4.png",
+    "static/media/asos2.png": "/static/media/asos2.608d4a51e85e3e891347.png",
     "static/media/Deepkamal.pdf": "/static/media/Deepkamal.347cff052da72d16a3b6.pdf",
     "static/media/pharm2.png": "/static/media/pharm2.312310c24b3a041c8f50.png",
+    "static/media/asos3.png": "/static/media/asos3.e207e619a779767e4b0f.png",
     "static/media/pharm3.png": "/static/media/pharm3.9da2bdb597c0d6394c9e.png",
     "static/media/nodejs.jpg": "/static/media/nodejs.d014a8eebcc3ed0c454e.jpg",
     "static/media/dk.jpg": "/static/media/dk.37d3625684b6eb0c3450.jpg",
@@ -28,10 +28,10 @@
     "static/media/type.png": "/static/media/type.c30f3f3610e109e285f1.png",
     "index.html": "/index.html",
     "main.0c069e50.css.map": "/static/css/main.0c069e50.css.map",
-    "main.1883f548.js.map": "/static/js/main.1883f548.js.map"
+    "main.bb15d4e2.js.map": "/static/js/main.bb15d4e2.js.map"
   },
   "entrypoints": [
     "static/css/main.0c069e50.css",
-    "static/js/main.1883f548.js"
+    "static/js/main.bb15d4e2.js"
   ]
 }
