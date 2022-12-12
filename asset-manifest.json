@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0c069e50.css",
-    "main.js": "/static/js/main.bb15d4e2.js",
+    "main.js": "/static/js/main.37f8fa79.js",
     "static/media/bg1.gif": "/static/media/bg1.d4a402f4b5da5590c675.gif",
     "static/media/asos1.png": "/static/media/asos1.1d6ce236630cd6f67f8b.png",
     "static/media/Nordstrom2.png": "/static/media/Nordstrom2.9056b2b4fc1ceafc8411.png",
@@ -28,10 +28,10 @@
     "static/media/type.png": "/static/media/type.c30f3f3610e109e285f1.png",
     "index.html": "/index.html",
     "main.0c069e50.css.map": "/static/css/main.0c069e50.css.map",
-    "main.bb15d4e2.js.map": "/static/js/main.bb15d4e2.js.map"
+    "main.37f8fa79.js.map": "/static/js/main.37f8fa79.js.map"
   },
   "entrypoints": [
     "static/css/main.0c069e50.css",
-    "static/js/main.bb15d4e2.js"
+    "static/js/main.37f8fa79.js"
   ]
 }
