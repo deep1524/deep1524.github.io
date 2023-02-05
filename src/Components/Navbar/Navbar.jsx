@@ -85,7 +85,9 @@ const Navbar = () => {
                                 <Link to="Navbar" spy={true} offset={-50} smooth={true}>   
                                 </Link>
                                 
-                                <a href={Resume} download="Deepkaml_yadav_Resume"  onClick={()=>window.open ("https://drive.google.com/drive/u/0/folders/15mxuyODHod1h6RL8cskxHktMizBVL8X2")}>RESUME</a>
+                                <a href={Resume} download="Deepkaml_yadav_Resume" 
+                                 onClick={()=>window.open 
+                                 ("https://drive.google.com/drive/u/0/folders/15mxuyODHod1h6RL8cskxHktMizBVL8X2")}>RESUME</a>
 
                             </li>
 

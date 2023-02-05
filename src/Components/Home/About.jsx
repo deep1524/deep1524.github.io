@@ -4,7 +4,7 @@ import Typical from "react-typical"
 import {Box, Button, Hide, Show, SimpleGrid, Text} from "@chakra-ui/react"
 import { IconButton } from "@chakra-ui/react"
 import myImg from "./Image/dk.jpg"
-import Resume from "./Image/Deepkamal.pdf"
+import Resume from "./Image/Deepkamal1.pdf"
 import { FaGithub,FaLinkedin} from "react-icons/fa"
 
 import {motion} from "framer-motion"
