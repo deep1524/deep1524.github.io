@@ -23,6 +23,7 @@ const About = () => {
 <img className={styles.my_img} src={myImg} alt="my_Image" />
 </motion.div>
 </Box>
+
 </Show>
 
         <Box className={styles.left}>
