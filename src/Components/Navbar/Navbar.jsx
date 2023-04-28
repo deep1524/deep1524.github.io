@@ -20,7 +20,7 @@ const Navbar = () => {
     return (
         <>
 
-            <Box  className={styles.main}>
+            <Box  className={styles.main} id="nav-menu>
                 <Box className={styles.left}>
                     <Box className={styles.name}>
                         <Flex>
